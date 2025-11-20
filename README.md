@@ -5,7 +5,7 @@
 <br />
 
 <h1 align="center">
-  Designing for the Web.
+  Attention to detail and learning. And under construction currently
 </h1>
 <p align="center">
   I build accessible, pixel-perfect interfaces with <strong>React</strong>, <strong>Three.js</strong>, and <strong>WebGL</strong>.
@@ -45,9 +45,7 @@
 
 <h2 align="center">Toolbox</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,tailwind,threejs,figma,blender&perline=6" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=react,ts,html,javascript,csharp,docker&perline=6" />
 </p>
 
 <br />
