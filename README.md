@@ -5,12 +5,10 @@
 <br />
 
 <h1 align="center">
-  Attention to detail and learning. And under construction currently
+  Attention to detail and learning.
 </h1>
 <p align="center">
-  I build accessible, pixel-perfect interfaces with <strong>React</strong>, <strong>Three.js</strong>, and <strong>WebGL</strong>.
-  <br />
-  Currently crafting design systems at <strong>[Company/Project Name]</strong>.
+  I study at kood/Sisu where I'm expanding my knowledge in Fullstack-development by peer-to-peer review education.
 </p>
 
 <br />
@@ -20,22 +18,18 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <a href="LINK_TO_LIVE_DEMO_1">
-          <img src="LINK_TO_GIF_1" alt="Project 1 Interaction" width="100%" />
+        <a href="https://github.com/Omitoi/Beachside-Racetrack">
+          <strong>Beachside Racetrack</strong>
+          <br />
+          <em>MVP for a racetrack screens</em>
         </a>
-        <br />
-        <strong>Project Name 1</strong>
-        <br />
-        <em>Micro-interactions / GSAP Animations</em>
       </td>
       <td align="center" width="50%">
-        <a href="LINK_TO_LIVE_DEMO_2">
-          <img src="LINK_TO_GIF_2" alt="Project 2 Interaction" width="100%" />
+        <a href="https://github.com/Omitoi/Beachside-Racetrack">
+          <strong>Interlink</strong>
+          <br />
+          <em>Recommendation application to match individuals with similar interests</em>
         </a>
-        <br />
-        <strong>Project Name 2</strong>
-        <br />
-        <em>Data Visualization / D3.js</em>
       </td>
     </tr>
   </table>
@@ -45,11 +39,11 @@
 
 <h2 align="center">Toolbox</h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,ts,html,javascript,csharp,docker&perline=6" />
+    <img src="https://skillicons.dev/icons?i=react,ts,html,javascript,cs,docker&perline=6" />
 </p>
 
 <br />
 
 <p align="center">
-  <a href="https://your-portfolio.com"><strong>View Full Portfolio ↗</strong></a>
+  <a href="#"><strong>Portfolio under construction ↗</strong></a>
 </p>
