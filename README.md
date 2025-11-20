@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-portfolio-url.com/banner.gif" width="100%" alt="Banner representing creative coding" />
+  <img src="https://github.com/Omitoi/Omitoi/blob/main/omitoi_banner.jpg?raw=true" width="100%" alt="Banner representing creative coding" />
 </div>
 
 <br />
@@ -20,16 +20,16 @@
       <td align="center" width="50%">
         <a href="https://github.com/Omitoi/Beachside-Racetrack">
           <strong>Beachside Racetrack</strong>
+        </a>
           <br />
           <em>MVP for a racetrack screens</em>
-        </a>
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/Omitoi/Beachside-Racetrack">
           <strong>Interlink</strong>
+          </a>
           <br />
           <em>Recommendation application to match individuals with similar interests</em>
-        </a>
       </td>
     </tr>
   </table>
@@ -45,5 +45,5 @@
 <br />
 
 <p align="center">
-  <a href="#"><strong>Portfolio under construction ↗</strong></a>
+  <a href="mailto:pekubec@gmail.com"><strong>Contact Me ↗</strong></a>
 </p>
