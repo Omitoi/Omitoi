@@ -8,7 +8,7 @@
   Attention to detail and learning.
 </h1>
 <p align="center">
-  Hello there! I am Petr, I study at kood/Sisu where I'm expanding my knowledge in Fullstack development through peer-to-peer education.
+  Hello there! I am Petr, I study at kood/Sisu where I'm expanding my knowledge in Fullstack development through peer-to-peer education and working on my slides presenter on in my free time.
 </p>
 
 <br />
