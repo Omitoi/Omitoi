@@ -18,16 +18,16 @@
   <table>
     <tr>
       <td align="center" width="50%">
+        <img src="https://github.com/Omitoi/Omitoi/blob/main/Racetrack.gif?raw=true" alt="Racetrack Gif" width="100%" />
         <a href="https://github.com/Omitoi/Beachside-Racetrack">
-          <img src="https://github.com/Omitoi/Omitoi/blob/main/Racetrack.gif?raw=true" alt="Racetrack Gif" width="100%" />
           <strong>Beachside Racetrack</strong>
         </a>
         <br />
         <em>MVP for racetrack screens</em>
       </td>
       <td align="center" width="50%">
+        <img src="https://github.com/Omitoi/Omitoi/blob/main/Interlink.gif?raw=true" alt="Interlink Gif" width="100%" />
         <a href="https://github.com/Omitoi/Interlink">
-          <img src="https://github.com/Omitoi/Omitoi/blob/main/Interlink.gif?raw=true" alt="Interlink Gif" width="100%" />
           <strong>Interlink</strong>
         </a>
         <br />
