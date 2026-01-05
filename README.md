@@ -8,7 +8,7 @@
   Attention to detail and learning.
 </h1>
 <p align="center">
-  I study at kood/Sisu where I'm expanding my knowledge in Fullstack development through peer-to-peer education.
+  Hello there! I am Petr, I study at kood/Sisu where I'm expanding my knowledge in Fullstack development through peer-to-peer education.
 </p>
 
 <br />
@@ -39,7 +39,7 @@
 
 <br />
 
-<h2 align="center">Toolbox</h2>
+<h2 align="center">Toolbox of Expertise</h2>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=react,ts,html,js,cs,docker&perline=6" />
 </p>
@@ -47,5 +47,5 @@
 <br />
 
 <p align="center">
-  <a href="mailto:pekubec@gmail.com"><strong>Contact Me ↗</strong></a>
+  <a href="mailto:pekubec@gmail.com"><strong>Email Me ↗</strong></a>
 </p>
